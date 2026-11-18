@@ -1,0 +1,63 @@
+[
+  {
+    "id": "hole-rush-3d",
+    "title": "Hole Rush 3D",
+    "genre": "3D Action Arcade",
+    "status": "Coming soon",
+    "platform": "Android",
+    "description": "Dynamic 3D arcade title with tactile physics-driven hole mechanics. Devour environment elements, expand in scale, and beat procedural level challenges.",
+    "playStoreUrl": "[PLAY_STORE_URL]",
+    "image": "/images/games/hole-rush-3d.webp",
+    "privacyAnchor": "#hole-rush-3d",
+    "notes": "v1.0 built for Android. Existing privacy policy transitioning to this official portal."
+  },
+  {
+    "id": "arrow-puzzle",
+    "title": "Arrow Puzzle",
+    "genre": "Maze Directional Puzzle",
+    "status": "In testing",
+    "platform": "Android",
+    "description": "Deceptively intricate pathfinding puzzle requiring strategic navigation through directional arrow mazes without collision.",
+    "playStoreUrl": "[PLAY_STORE_URL]",
+    "image": "/images/games/arrow-puzzle.webp",
+    "privacyAnchor": "#arrow-puzzle",
+    "notes": "Published to Google Play testing track; awaiting production approval."
+  },
+  {
+    "id": "hexa-puzzle",
+    "title": "Hexa Puzzle",
+    "genre": "Hexagonal Strategy Puzzle",
+    "status": "Coming soon",
+    "platform": "Android",
+    "description": "Tactile hexagon-based color matching puzzle. Shift same-colored blocks to merge and clear clusters of 6-7 tiles for maximum scores before the board fills.",
+    "playStoreUrl": "[PLAY_STORE_URL]",
+    "image": "/images/games/hexa-puzzle.webp",
+    "privacyAnchor": "#hexa-puzzle",
+    "notes": "Core build complete and ready for release distribution."
+  },
+  {
+    "id": "block-puzzle",
+    "title": "Block Puzzle",
+    "genre": "Classic Grid Strategy",
+    "status": "Coming soon",
+    "platform": "Android",
+    "description": "Clean, satisfying geometric puzzle inspired by classic block-clearing mechanics. Engineered for instant touch response and high spatial replayability.",
+    "playStoreUrl": "[PLAY_STORE_URL]",
+    "image": "/images/games/block-puzzle.webp",
+    "privacyAnchor": "#block-puzzle",
+    "notes": "Polished Android build ready for deployment."
+  },
+  {
+    "id": "limbo-inspired",
+    "title": "Shadow Descent",
+    "workingTitle": "Limbo-inspired action",
+    "genre": "Atmospheric Silhouette Platformer",
+    "status": "Coming soon",
+    "platform": "Android",
+    "description": "A darker, more demanding precision platformer emphasizing atmospheric silhouette art direction, environmental hazards, and unforgiving timing.",
+    "playStoreUrl": "[PLAY_STORE_URL]",
+    "image": "/images/games/limbo-inspired.webp",
+    "privacyAnchor": "#limbo-inspired",
+    "notes": "Under active development with heightened gameplay challenge."
+  }
+]
